@@ -1,4 +1,4 @@
-List of (mostly trivial) drupal issues that affect production environments but are blocked by drupal 8 development and drupal's backport policy.
+List of (mostly trivial) drupal issues that affect production environments but existing patches are blocked by drupal 8 development and drupal's backport policy.
 
 <table>
 <tr><th>Issue</th><th>Drupal</th><th>Backdrop</th></tr>
