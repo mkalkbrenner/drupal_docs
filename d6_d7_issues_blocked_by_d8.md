@@ -16,7 +16,7 @@ List of (mostly trivial) drupal issues that affect production environments but e
 <tr><td>form_set_error() flags ALL form elements with the same name on a page</td><td>https://drupal.org/node/119208</td><td></td></tr>
 <tr><td>drupal_http_request() fails</td><td>https://drupal.org/node/617126</td><td></td></tr>
 <tr><td>node_view() incompatible to php5</td><td>https://drupal.org/node/229411</td><td></td></tr>
-<tr><td>DEADLOCK errors on MergeQuery INSERT due to InnoDB gap locking when condition in SELECT ... FOR UPDATE results in 0 rows</td><td>https://drupal.org/node/937284/td><td></td></tr>
+<tr><td>DEADLOCK errors on MergeQuery INSERT due to InnoDB gap locking when condition in SELECT ... FOR UPDATE results in 0 rows</td><td>https://drupal.org/node/937284</td><td></td></tr>
 </table>
 
 to be continued ...
